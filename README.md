@@ -19,3 +19,16 @@
    * Mango
    * Orange
    * Banana
+1. Vegatables
+    1. Tomato
+    2. Onion
+    3. Brinjal
+    4. Carrot
+  
+ sno|Name
+ ----|----
+ 1|Megha
+ 2|Sakhi
+ 3|Sathvi
+ 
+ 
